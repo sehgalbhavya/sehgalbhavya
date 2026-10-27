@@ -23,6 +23,7 @@ I took that into 20+ products for 14 freelance clients, and then into my MSc at 
 </details>
 
 <a name="work"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-work-dark.svg">
   <img src="assets/title-work.svg" width="100%" alt="My Work.">
@@ -35,6 +36,7 @@ I took that into 20+ products for 14 freelance clients, and then into my MSc at 
 <img src="assets/card-mimri.svg" width="100%" alt="mimri, coming soon: a shared 3D room for two people who live apart.">
 
 <a name="process"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-process-dark.svg">
   <img src="assets/title-process.svg" width="100%" alt="How I Work.">
