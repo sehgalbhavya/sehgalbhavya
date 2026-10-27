@@ -2,4 +2,4 @@
 text { font-family: Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1A1A1A; }
 .muted { fill: #6B6660; }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
-</style><text x="2" y="18" font-size="12.5" font-weight="600" letter-spacing="1.6" fill="#A9472C" style="fill:#A9472C">SELECTED PROJECTS</text><text x="0" y="62" font-size="42" font-weight="600">My Work<tspan fill="#C75D3F">.</tspan></text><rect x="2" y="80" width="56" height="3" rx="1.5" fill="#C75D3F"/></svg>
+</style><text x="2" y="18" font-size="12.5" font-weight="600" letter-spacing="1.6" fill="#A9472C" style="fill:#A9472C">SELECTED PROJECTS</text><text x="0" y="62" font-size="42" font-weight="600" fill="#1A1A1A" style="fill:#1A1A1A">My Work<tspan fill="#C75D3F" style="fill:#C75D3F">.</tspan></text><rect x="2" y="80" width="56" height="3" rx="1.5" fill="#C75D3F"/></svg>

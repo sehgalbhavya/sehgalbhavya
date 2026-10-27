@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="92" viewBox="0 0 840 92" role="img" aria-label="How I Work"><style>
+text { font-family: Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1A1A1A; }
+.muted { fill: #6B6660; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style><text x="2" y="18" font-size="12.5" font-weight="600" letter-spacing="1.6" fill="#E07150" style="fill:#E07150">FROM RESEARCH TO PRODUCTION</text><text x="0" y="62" font-size="42" font-weight="600" fill="#F0F6FC" style="fill:#F0F6FC">How I Work<tspan fill="#E07150" style="fill:#E07150">.</tspan></text><rect x="2" y="80" width="56" height="3" rx="1.5" fill="#E07150"/></svg>

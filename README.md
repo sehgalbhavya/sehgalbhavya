@@ -23,7 +23,10 @@ I took that into 20+ products for 14 freelance clients, and then into my MSc at 
 </details>
 
 <a name="work"></a>
-<img src="assets/title-work.svg" width="100%" alt="My Work.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-work-dark.svg">
+  <img src="assets/title-work.svg" width="100%" alt="My Work.">
+</picture>
 
 <p>
   <a href="https://sehgalbhavya.github.io/Lumaire/"><img src="assets/card-lumaire.svg" width="49%" alt="Lumaire: a DJ controller you play with your hands. Live demo."></a>
@@ -32,7 +35,10 @@ I took that into 20+ products for 14 freelance clients, and then into my MSc at 
 <img src="assets/card-mimri.svg" width="100%" alt="mimri, coming soon: a shared 3D room for two people who live apart.">
 
 <a name="process"></a>
-<img src="assets/title-process.svg" width="100%" alt="How I Work.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-process-dark.svg">
+  <img src="assets/title-process.svg" width="100%" alt="How I Work.">
+</picture>
 
 <img src="assets/process.svg" width="100%" alt="01 Research: find the small frictions that quietly push people away. 02 Design: flows, interaction design and prototypes, tested with users. 03 Build: production code on web, Android and iOS, built AI-first.">
 
