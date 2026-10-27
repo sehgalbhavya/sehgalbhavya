@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="372" viewBox="0 0 410 372" role="img" aria-label="genUI"><style>
+text { font-family: Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1A1A1A; }
+.muted { fill: #6B6660; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+.ui1,.ui2,.ui3 { animation: pop 6s ease-in-out infinite; }
+.ui2 { animation-delay: .35s; } .ui3 { animation-delay: .7s; }
+@keyframes pop { 0%,8% { opacity: 0; transform: translateY(6px); } 18%,85% { opacity: 1; transform: none; } 95%,100% { opacity: 0; } }
+.spark { animation: spark 6s ease-in-out infinite; transform-origin: 171px 54px; }
+@keyframes spark { 0%,6% { transform: scale(1); } 10% { transform: scale(1.15); } 14%,100% { transform: scale(1); } }
+</style>
+<defs><clipPath id="c"><rect x="1" y="1" width="408" height="370" rx="14"/></clipPath></defs>
+<g clip-path="url(#c)">
+  <rect width="410" height="372" fill="#FFFDF9"/>
+  
+<rect width="410" height="200" fill="#FDF9F3"/><rect width="410" height="200" fill="url(#g2)"/>
+<defs><pattern id="g2" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="9.0" cy="9.0" r="1" fill="rgba(70,50,30,0.13)"/></pattern></defs>
+<rect x="26" y="34" width="168" height="40" rx="10" fill="#FFFFFF" stroke="#E4DED6"/>
+<text x="40" y="59" font-size="12" class="muted">“Plan a 4-day trip…”</text>
+<rect class="spark" x="160" y="44" width="22" height="20" rx="6" fill="#C75D3F"/>
+<path d="M171 48l2 4 4 2-4 2-2 4-2-4-4-2 4-2z" fill="#FFF"/>
+<path d="M110 82 C110 120, 200 110, 222 128" fill="none" stroke="#C75D3F" stroke-width="1.6" stroke-dasharray="4 4"/>
+<g class="ui1"><rect x="222" y="30" width="160" height="46" rx="9" fill="#FFFFFF" stroke="#E4DED6"/>
+  <rect x="234" y="42" width="70" height="7" rx="3.5" fill="#1A1A1A"/><rect x="234" y="56" width="120" height="6" rx="3" fill="#E4DED6"/></g>
+<g class="ui2"><rect x="222" y="86" width="76" height="80" rx="9" fill="#FFFFFF" stroke="#E4DED6"/>
+  <rect x="232" y="98" width="40" height="6" rx="3" fill="#1A1A1A"/><rect x="232" y="112" width="54" height="5" rx="2.5" fill="#E4DED6"/><rect x="232" y="122" width="48" height="5" rx="2.5" fill="#E4DED6"/>
+  <rect x="232" y="142" width="44" height="14" rx="7" fill="#C75D3F"/></g>
+<g class="ui3"><rect x="306" y="86" width="76" height="80" rx="9" fill="#FFFFFF" stroke="#E4DED6"/>
+  <circle cx="324" cy="106" r="8" fill="#ECE9E5"/><rect x="316" y="124" width="54" height="5" rx="2.5" fill="#E4DED6"/><rect x="316" y="134" width="40" height="5" rx="2.5" fill="#E4DED6"/>
+  <rect x="316" y="148" width="56" height="8" rx="4" fill="#ECE9E5"/></g>
+<text x="26" y="170" font-size="11" font-weight="600" letter-spacing="1.2" fill="#A9472C" style="fill:#A9472C">TASK → LLM → UI</text>
+
+  <line x1="0" y1="200" x2="410" y2="200" stroke="#E4DED6"/>
+  <text x="22" y="238" font-size="21" font-weight="600">genUI</text>
+  <text x="22" y="264" font-size="13.5" class="muted">Describe a task, and an LLM decides which UI</text><text x="22" y="283" font-size="13.5" class="muted">components to show and lays them out at runtime,</text><text x="22" y="302" font-size="13.5" class="muted">with its output checked against a schema.</text>
+  <rect x="22" y="322" width="57" height="24" rx="12" fill="#ECE9E5"/><text x="51" y="338" font-size="11.5" font-weight="500" text-anchor="middle">Python</text><rect x="85" y="322" width="48" height="24" rx="12" fill="#ECE9E5"/><text x="109" y="338" font-size="11.5" font-weight="500" text-anchor="middle">Flask</text><rect x="139" y="322" width="52" height="24" rx="12" fill="#ECE9E5"/><text x="165" y="338" font-size="11.5" font-weight="500" text-anchor="middle">Gemini</text><rect x="197" y="322" width="90" height="24" rx="12" fill="#ECE9E5"/><text x="242" y="338" font-size="11.5" font-weight="500" text-anchor="middle">JSON Schema</text>
+  <text x="388" y="238" font-size="13" font-weight="600" text-anchor="end" fill="#A9472C" style="fill:#A9472C">View repo ↗</text>
+</g>
+<rect x=".5" y=".5" width="409" height="371" rx="14" fill="none" stroke="#E4DED6"/></svg>

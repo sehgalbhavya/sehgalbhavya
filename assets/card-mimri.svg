@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200" role="img" aria-label="mimri, coming soon"><style>
+text { font-family: Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1A1A1A; }
+.muted { fill: #6B6660; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+.heart { transform-box: fill-box; transform-origin: center; animation: beat 1.6s ease-in-out infinite; } @keyframes beat { 0%,100% { transform: scale(1); } 15% { transform: scale(1.18); } 30% { transform: scale(1); } 45% { transform: scale(1.12); } }</style>
+<defs><pattern id="g3" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="4.5" cy="4.5" r="1" fill="rgba(26,26,26,0.16)"/></pattern><clipPath id="m"><rect x="1" y="1" width="838" height="198" rx="14"/></clipPath></defs>
+<g clip-path="url(#m)">
+  <rect width="840" height="200" fill="#FFFDF9"/>
+  <rect x="560" width="280" height="200" fill="url(#g3)"/>
+  
+<g transform="translate(610 92)">
+  <path d="M90 0 L180 45 L90 90 L0 45 Z" fill="#F4E6D8" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M0 45 L0 -15 L90 -60 L90 0 Z" fill="#FBF3EA" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M90 0 L90 -60 L180 -15 L180 45 Z" fill="#F7EBDD" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M110 -18 L150 2 L150 -26 L110 -46 Z" fill="#FDF9F3" stroke="#1A1A1A" stroke-width="1.6"/>
+  <path d="M60 52 L100 72 L120 62 L80 42 Z" fill="#C75D3F" stroke="#1A1A1A" stroke-width="1.6"/>
+  <path class="heart" d="M58 -14 c0-6 9-6 9 0 c0-6 9-6 9 0 c0 6-9 11-9 13 c0-2-9-7-9-13z" fill="#C75D3F" stroke="#1A1A1A" stroke-width="1.4"/>
+</g>
+  <rect x="22" y="24" width="104" height="24" rx="12" fill="#C75D3F"/>
+  <text x="74" y="40" font-size="11.5" font-weight="600" text-anchor="middle" fill="#FFF" style="fill:#FFF" letter-spacing="1">COMING SOON</text>
+  <text x="22" y="86" font-size="26" font-weight="700">mimri</text>
+  <text x="22" y="114" font-size="14" class="muted">A shared 3D room for two people who live apart, to share small</text>
+  <text x="22" y="134" font-size="14" class="muted">moments through the day, in a comic-book style.</text>
+  <rect x="22" y="154" width="67" height="24" rx="12" fill="#ECE9E5"/><text x="56" y="170" font-size="11.5" font-weight="500" text-anchor="middle">Three.js</text><rect x="95" y="154" width="121" height="24" rx="12" fill="#ECE9E5"/><text x="156" y="170" font-size="11.5" font-weight="500" text-anchor="middle">React Three Fiber</text><rect x="223" y="154" width="47" height="24" rx="12" fill="#ECE9E5"/><text x="246" y="170" font-size="11.5" font-weight="500" text-anchor="middle">GLSL</text><rect x="275" y="154" width="70" height="24" rx="12" fill="#ECE9E5"/><text x="310" y="170" font-size="11.5" font-weight="500" text-anchor="middle">Supabase</text><rect x="351" y="154" width="74" height="24" rx="12" fill="#ECE9E5"/><text x="388" y="170" font-size="11.5" font-weight="500" text-anchor="middle">Capacitor</text>
+</g>
+<rect x=".5" y=".5" width="839" height="199" rx="14" fill="none" stroke="#E4DED6"/></svg>

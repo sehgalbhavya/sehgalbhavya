@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113" height="38" viewBox="0 0 113 38" role="img" aria-label="Portfolio ↗"><style>
+text { font-family: Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1A1A1A; }
+.muted { fill: #6B6660; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style><rect x=".5" y=".5" width="112" height="37" rx="10" fill="#C75D3F" stroke="#C75D3F"/><text x="56.5" y="24" font-size="14" font-weight="500" text-anchor="middle" fill="#FFFFFF" style="fill:#FFFFFF">Portfolio ↗</text></svg>

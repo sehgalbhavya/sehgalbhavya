@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="38" viewBox="0 0 77 38" role="img" aria-label="Say hi"><style>
+text { font-family: Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1A1A1A; }
+.muted { fill: #6B6660; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style><rect x=".5" y=".5" width="76" height="37" rx="10" fill="#ECE9E5" stroke="#E4DED6"/><text x="38.5" y="24" font-size="14" font-weight="500" text-anchor="middle" fill="#1A1A1A" style="fill:#1A1A1A">Say hi</text></svg>

@@ -1,31 +1,46 @@
-### Hi, I'm Bhavya 👋
+<a href="https://bhavyasehgal.com"><img src="assets/hero.svg" width="100%" alt="Hi, I am Bhavya. UX Engineer and Product Designer. Designer by instinct. Developer by choice."></a>
 
-I'm a **design engineer** in Stockholm. I design digital products and then build them myself, from the user research to the production code.
+<p align="center">
+  <a href="#work"><img src="assets/nav-work.svg" height="38" alt="Work"></a>
+  <a href="#process"><img src="assets/nav-process.svg" height="38" alt="How I Work"></a>
+  <a href="#contact"><img src="assets/nav-contact.svg" height="38" alt="Say hi"></a>
+  <a href="https://bhavyasehgal.com"><img src="assets/nav-portfolio.svg" height="38" alt="Portfolio"></a>
+</p>
 
-I've been designing products since 2021, first in B2B SaaS in India, then freelance for 14 clients across fintech, SaaS and ed-tech. I recently finished my **MSc in Human-Computer Interaction at KTH**, with a thesis at **BMW Group** on a generative UI: an LLM that composes in-car screens in real time from what the driver asks for.
+<p align="center">
+I design digital products and then build them myself, from the user research to the production code.<br>
+MSc in Human-Computer Interaction at KTH, with a thesis at BMW Group on a generative in-car UI.
+</p>
 
-What I care about most is the small stuff that quietly pushes people away: the onboarding everyone skips, the sign-up that loses people halfway. Those are fixable, and they decide whether people stay.
+<details>
+<summary><b>Why I care about the small things</b></summary>
+<br>
 
-#### 🛠️ Things I've built
+I started out believing a beautiful design was everything. Working at Phyllo, a B2B startup in India, changed that: I kept getting pulled into the small blockers that made developers and users drop off early. What matters most is the part people don't see, a flow built on real research that works and is useful first. Making it beautiful comes after.
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [**genUI**](https://github.com/sehgalbhavya/genui) | Describe a task, and an LLM decides which UI components to show and lays them out at runtime, with its output checked against a schema. | Python, Flask, Gemini, JSON Schema |
-| [**Lumaire**](https://github.com/sehgalbhavya/Lumaire) · [live demo](https://sehgalbhavya.github.io/Lumaire/) | A DJ controller you play with your hands in the air: hand tracking in the browser drives the music and visuals. Team project at KTH. | MediaPipe, Tone.js, Three.js |
-| **mimri** *(coming soon)* | A shared 3D room for two people who live apart, to share small moments through the day, in a comic-book style. | Three.js, React Three Fiber, GLSL, Supabase, Capacitor |
+I took that into 20+ products for 14 freelance clients, and then into my MSc at KTH, where I worked on multi-sensory XR and generative UI. AI changed how I work: I can now build what I design, end to end.
 
-#### 🤖 How I work with AI
+</details>
 
-AI changed how I work: I can now build what I design, end to end. I direct AI coding agents in gated stages, with review and automated tests between them, and I design products where AI does the heavy lifting but people stay in control.
+<a name="work"></a>
+<img src="assets/title-work.svg" width="100%" alt="My Work.">
 
-#### 🧰 Toolbox
+<p>
+  <a href="https://sehgalbhavya.github.io/Lumaire/"><img src="assets/card-lumaire.svg" width="49%" alt="Lumaire: a DJ controller you play with your hands. Live demo."></a>
+  <a href="https://github.com/sehgalbhavya/genui"><img src="assets/card-genui.svg" width="49%" alt="genUI: an LLM picks and lays out UI components at runtime."></a>
+</p>
+<img src="assets/card-mimri.svg" width="100%" alt="mimri, coming soon: a shared 3D room for two people who live apart.">
 
-**Design:** Figma, Framer, Protopie, Spline · user research, usability testing, interaction design, WCAG
-**Build:** React, TypeScript, Three.js, GLSL, Kotlin / Jetpack Compose, Python, Supabase
-**AI:** LLM integration, generative UI, AI agents, Claude Code, Cursor, MediaPipe
+<a name="process"></a>
+<img src="assets/title-process.svg" width="100%" alt="How I Work.">
 
-#### 📫 Say hi
+<img src="assets/process.svg" width="100%" alt="01 Research: find the small frictions that quietly push people away. 02 Design: flows, interaction design and prototypes, tested with users. 03 Build: production code on web, Android and iOS, built AI-first.">
 
-[Portfolio](https://bhavyasehgal.com) · [LinkedIn](https://linkedin.com/in/sehgalbhavya) · work.bhavyasehgal@gmail.com
+<a name="contact"></a>
+<a href="mailto:work.bhavyasehgal@gmail.com"><img src="assets/footer.svg" width="100%" alt="Let's build something people come back to. Open to design engineer, product designer and UX engineer roles in Europe."></a>
 
-Open to design engineer, product designer and UX engineer roles in Europe.
+<p align="center">
+  <a href="mailto:work.bhavyasehgal@gmail.com"><img src="assets/nav-email.svg" height="38" alt="Email"></a>
+  <a href="https://linkedin.com/in/sehgalbhavya"><img src="assets/nav-linkedin.svg" height="38" alt="LinkedIn"></a>
+  <a href="https://bhavyasehgal.com"><img src="assets/nav-portfolio.svg" height="38" alt="Portfolio"></a>
+</p>
